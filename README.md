@@ -4,6 +4,12 @@
 
 To read the given data and perform Feature Transformation process and save the data to a file.
 
+## DATE:
+
+GITHUB LINK:https://github.com/Hariharan5354/Ex-06-Feature-Transformation.git
+
+COLAB LINK:https://colab.research.google.com/drive/1GhxNgEDdZz3SLOGrEcj3UCQ4So_uaoLD?usp=sharing
+
 # EXPLANATION
 
 Feature Transformation is a technique by which we can boost our model performance. Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis.
